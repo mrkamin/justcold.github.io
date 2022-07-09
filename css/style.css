@@ -1,0 +1,54 @@
+body {
+	max-width: 1000px;
+	float: none;
+	margin: auto;
+}
+header {
+	width: 100%;
+	display: inline-block;
+}
+.aside-left{
+	width: 30%;
+	float: left;
+	display: block;
+	min-height: 300px;
+}
+main {
+	width: 33%;
+	float: left;
+	display: Block;
+	min-height: 300px;
+}
+aside {
+	width: 33%;
+	float: right;
+	display: Block;
+	min-height: 300px;
+}
+footer {
+	width: 100%;
+	display: inline-block;
+}
+.left-footer{
+width: 33%;
+	float: left;
+	display: Block;
+	min-height: 200px;
+}
+.center-footer {
+width: 33%;
+	float: left;
+	display: Block;
+	min-height: 200px;
+}
+.right-footer {
+width: 33%;
+	float: right;
+	display: Block;
+	min-height: 200px;
+}
+.copyright {
+	width: 100%;
+	display: inline-block;
+	
+}
